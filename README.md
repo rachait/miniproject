@@ -42,8 +42,3 @@ The `main()` function contains a menu-driven interface that allows the user to c
 - The ice-cream database is stored in memory. Once the program exits, the data will be lost.
 - Input validation for price and name is minimal; further validation can be added for a more robust program.
 - The program dynamically allocates memory using `realloc()`. Ensure that the system has sufficient memory when adding new records.
-
-## Usage
-
-1. Clone or download the repository.
-2. Compile the program using a C compiler (e.g., `gcc
